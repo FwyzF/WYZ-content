@@ -2,7 +2,7 @@
 title: 序章：尚未命名的旅途
 published: 2026-10-21
 description: 关于这个博客，以及我想记录的电力电子学习与实践。
-tags: ["博客", "电力电子"]
+tags: ["日常", ]
 category: 日常
 draft: false
 ---
